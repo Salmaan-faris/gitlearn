@@ -1,2 +1,4 @@
 hey how are you,
 hope you are fine
+
+2 git merging eg
